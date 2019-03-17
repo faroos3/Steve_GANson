@@ -13,3 +13,5 @@ The following are used in the project:
 
 # Progress
 So, Will and I did our homework and volunteered at the event respectively instead of actually doing our project. We decided we'd do the project on our own time! 
+
+We spent A LOT of time researching, because this was a little harder than we thought it would be to get done in ~2 hours. Found some really nice resources, learned what Keras was, and found a lot of examples to go off of. Hooray! 
