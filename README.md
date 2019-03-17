@@ -8,3 +8,8 @@ We are developing technologies because Will wanted to do a project and Samad wan
 The following are used in the project: 
 * Python3 
 * TensorFlow
+* Keras with TensorFlow Backend
+* Google Cloud Platform's TPU
+
+# Progress
+So, Will and I did our homework and volunteered at the event respectively instead of actually doing our project. We decided we'd do the project on our own time! 
